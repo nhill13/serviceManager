@@ -8,6 +8,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        boolean running = true;
+        
         System.out.println("Starting Service Manager...");
 
         try {
@@ -21,9 +23,10 @@ public class Main {
 
         }
 
-        boolean running = true;
 
         while (running) {
+            
+            
 
         }
 
