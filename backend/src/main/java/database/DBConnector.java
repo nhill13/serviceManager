@@ -8,7 +8,7 @@ public class DBConnector {
 
     private String url = "jdbc:postgresql://localhost:5432/servicemanager";
     private String dbUser = "servicemanager";
-    private String dbPassword = "P55w0rd";
+    private String dbPassword = "P@55w0rd";
 
     public DBConnector() throws SQLException{
         
